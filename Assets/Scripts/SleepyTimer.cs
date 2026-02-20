@@ -50,7 +50,7 @@ public class SleepyTimer : MonoBehaviour
             timeRemaining -= 1;
         }
 
-        timerShouldDecrease = true;
-        // you are not good at coding
+        timerShouldDecrease = true;  
+
     }
 }
